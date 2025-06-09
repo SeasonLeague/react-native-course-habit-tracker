@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-native-course",
-    "slug": "react-native-course",
+    "slug": "react-native-course-2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3ce54a8a-1c5e-4385-a4a5-197db9f4f88c"
+      }
+    },
+    "owner": "anthemjavascript"
   }
 }
